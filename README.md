@@ -6,7 +6,7 @@ With a strong foundation in cloud platforms and healthcare data systems, I speci
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sairish&label=Profile%20views&color=0e75b6&style=flat" alt="sairish" /> </p>
 
-<img align="Right" alt="Coding" width="400" src="https://github.com/sairish/sairish.github.io/blob/main/images/Animated%20Img.avif"> 
+<img align="Right" alt="Coding" width="380" src="https://github.com/sairish/sairish.github.io/blob/main/images/Animated%20Img.avif"> 
 
 - 🌱 I’m currently learning **Big Data Engineering**
 
