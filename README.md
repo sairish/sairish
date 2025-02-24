@@ -12,7 +12,7 @@ With a strong foundation in cloud platforms and healthcare data systems, I speci
 
 - 👨‍💻 All of my projects are available at [https://sairprofile](https://sairprofile)
 
-- 📫 How to reach me **xxxx@gmail.com**
+- 📫 How to reach me **Test@gmail.com**
 
 - 📄 Know about my experiences [https://ResumeLink](https://ResumeLink)
 
