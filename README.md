@@ -10,11 +10,11 @@ With a strong foundation in cloud platforms and healthcare data systems, I speci
 
 - 🌱 I’m currently learning **Big Data Engineering**
 
-- 👨‍💻 All of my projects are available at [https://sairprofile](https://sairprofile)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sairish.github.io/)
 
-- 📫 How to reach me **Test@gmail.com**
+- 📫 How to reach me **sairishitha0869@gmail.com**
 
-- 📄 Know about my experiences [https://ResumeLink](https://ResumeLink)
+- 📄 Know about my experiences [Resume Link](https://github.com/sairish/My_Resume/blob/main/Rishitha%20Resume%20Data%20Engineer.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
