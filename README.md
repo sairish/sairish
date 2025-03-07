@@ -12,7 +12,7 @@ With a strong foundation in cloud platforms and healthcare data systems, I speci
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://sairish.github.io/)
 
-- 📫 How to reach me **sairishitha0869@gmail.com**
+- 📫 How to reach me **mailtosairishitha@gmail.com**
 
 - 📄 Know about my experiences [Resume Link](https://github.com/sairish/My_Resume/blob/main/Rishitha%20Resume%20Data%20Engineer.pdf)
 
